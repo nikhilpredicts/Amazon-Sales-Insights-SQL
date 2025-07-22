@@ -164,7 +164,7 @@ Detailed in `Analysis_list.sql`, including:
 ## How to Run
 
 1. Clone this repository.  
-2. Ensure `amazondata.csv` is in the `Dataset/` folder.  
+2. Ensure `amazon.csv` is in the `Dataset/` folder.  
 3. In your SQL environment, connect to the server and run:
    1. `SQL Files/Data_wrangling_and_feature_engineering.sql`  
    2. `SQL Files/Business_questions_to_answer.sql`  
