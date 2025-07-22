@@ -178,4 +178,9 @@ Detailed in `Analysis_list.sql`, including:
 
 **Nikhil Karaka**  
 
+
+## 📬 Contact
+
+For queries or suggestions, feel free to reach out via [email](mailto:karakanikhil2003@gmail.com) or connect on [GitHub](https://github.com/karakanikhil2003).
+
 Thank you for exploring this project!
